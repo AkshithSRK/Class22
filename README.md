@@ -1,2 +1,2 @@
-# Class22
-Bouncy Ball, ground, physics engine, matter.js
+# bouncyBall
+Bouncy Ball created using matter.js physics engine
